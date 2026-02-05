@@ -1,0 +1,63 @@
+1. Mục tiêu của bài tập
+
+Mục tiêu của bài tập là thông qua việc thảo luận nhóm để xác định bố cục tổng thể của một trang web, nhận diện các thành phần chính cần xây dựng và từ đó tiến hành lập trình trang web bằng HTML và CSS cơ bản theo mẫu cho trước.
+
+2. Xác định bố cục tổng thể của trang web
+
+Sau quá trình thảo luận, trang web được xác định gồm các khu vực chính như sau:
+
+Tiêu đề trang web: Thể hiện nội dung chính của trang, giúp người dùng nhận biết mục đích của trang web.
+
+Khu vực hiển thị danh sách khóa học: Là phần nội dung trung tâm của trang.
+
+Danh sách các khóa học sắp khai giảng:
+
+Gồm 6 khóa học
+
+Được bố trí theo dạng 2 hàng × 3 cột
+
+Bố cục cân đối, rõ ràng và dễ quan sát.
+
+3. Nhận định cấu trúc của mỗi khóa học
+
+Mỗi khóa học được thiết kế như một khối nội dung riêng biệt. Qua thảo luận, các thành phần cần có cho mỗi khóa học bao gồm:
+
+Hình ảnh minh họa: Tạo sự trực quan cho khóa học.
+
+Tên khóa học: Giúp người dùng nhanh chóng nhận biết nội dung đào tạo.
+
+Mô tả ngắn gọn: Trình bày khái quát nội dung và đối tượng phù hợp.
+
+Danh sách thông tin chi tiết, gồm:
+
+Học phí hoặc ưu đãi học phí
+
+Thời gian khai giảng
+
+Thời lượng khóa học
+
+4. Các phần tử HTML được lựa chọn sử dụng
+
+Dựa trên bố cục đã xác định, các thẻ HTML phù hợp được sử dụng trong quá trình lập trình gồm:
+
+Chức năng	Thẻ HTML
+Tiêu đề trang	<h2>
+Tiêu đề khóa học	<h3>
+Khối chia bố cục	<div>
+Hình ảnh minh họa	<img>
+Nội dung mô tả	<p>
+Danh sách thông tin	<ul>, <li>
+Biểu tượng trang trí	<i> (Font Awesome)
+5. Triển khai lập trình trang web
+
+Sau khi thống nhất bố cục và các thành phần cần thiết, trang web được xây dựng bằng HTML kết hợp CSS. Bố cục 3 cột được thực hiện bằng CSS Grid, giúp bố cục ổn định, dễ quản lý và phù hợp với yêu cầu đề bài.
+
+6. Kết luận
+
+Qua bài tập, sinh viên hiểu rõ hơn về:
+
+Cách phân tích bố cục một trang web trước khi lập trình
+
+Cách xác định các thành phần HTML cần sử dụng
+
+Quy trình từ thảo luận đến triển khai trang web hoàn chỉnh
